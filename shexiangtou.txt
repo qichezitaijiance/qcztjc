@@ -11,7 +11,7 @@
  * @brief      山外K60 平台主程序
  * @author     山外科技
  * @version    v5.0
- * @date       2018-04-21
+ * @date       2018-04-20
  */
 
 #include "common.h"aa
